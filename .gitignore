@@ -1,0 +1,8 @@
+# Arquivos e pastas a serem ignorados
+node_modules/
+sessions/
+tmp/*
+!tmp/keep
+*.log
+.env
+hanako-db.json
